@@ -36,12 +36,16 @@ layout: post
 
 #### 2.2.1 可选择的方案
 1. [academicpages/academicpages.github.io: Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes](https://github.com/academicpages/academicpages.github.io)
+
+![academicpages](../_posts/attachments/academicpages.png)
 ![academicpages](_posts/attachments/academicpages.png)
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="_posts/attachments/academicpages.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 比较简单, 且朴素
 2. [Academic](https://academic-demo.netlify.app/)
 ![](attachments/Pasted image 20240206221444.png)
