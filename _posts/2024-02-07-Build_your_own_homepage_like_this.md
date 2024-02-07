@@ -35,7 +35,13 @@ layout: post
 [How I Built my Blog using MDX, Next.js, and React](https://www.joshwcomeau.com/blog/how-i-built-my-blog/) 该方案太过于专业，专注于前端。搞懂的话，需要花费自己太多的时间，且并不符合我的需求，为学术和专业服务，不同于有的专家发布于bilibili等平台上，他们有自己的名气专注于文字或者创作本身。我恰巧懂点计算机和markdown和网页的知识，可以做一个academic homapage的主页，为我服务。
 
 #### 2.2.1 可选择的方案
-1. [academicpages/academicpages.github.io: Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes](https://github.com/academicpages/academicpages.github.io)![academicpages](./attachments/academicpages.png)
+1. [academicpages/academicpages.github.io: Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes](https://github.com/academicpages/academicpages.github.io)
+![academicpages](_posts/attachments/academicpages.png)
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="_posts/attachments/academicpages.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 比较简单, 且朴素
 2. [Academic](https://academic-demo.netlify.app/)
 ![](attachments/Pasted image 20240206221444.png)
