@@ -34,15 +34,15 @@ layout: post
 [How I Built my Blog using MDX, Next.js, and React (joshwcomeau.com)](https://www.joshwcomeau.com/blog/how-i-built-my-blog/) 该方案太过于专业，专注于前端。搞懂的话，需要花费自己太多的时间，且并不符合我的需求，为学术和专业服务，不同于有的专家发布于bilibili等平台上，他们有自己的名气专注于文字或者创作本身。我恰巧懂点计算机和markdown和网页的知识，可以做一个academic homapage的主页，为我服务。
 
 #### 2.2.1 可选择的方案
-1. [academicpages/academicpages.github.io: Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes](https://github.com/academicpages/academicpages.github.io)![[attachments/Pasted image 20240206215156.png|500]]
+1. [academicpages/academicpages.github.io: Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes](https://github.com/academicpages/academicpages.github.io)![[attachments/Pasted image 20240206215156.png]]
 比较简单, 且朴素
 2. [Academic (academic-demo.netlify.app)](https://academic-demo.netlify.app/)
-![[attachments/Pasted image 20240206221444.png|500]]
+![[attachments/Pasted image 20240206221444.png]]
 看着现代一点，但是没有blog或者post的分页，而是集中在一起。这也是[Ioannis Nikiteas](https://gnikit.github.io/) 使用的方案。分页的功能需要赞助哦。[HugoBlox/theme-academic-cv: 🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.](https://github.com/HugoBlox/theme-academic-cv) 
 
 3. [Material for MkDocs (squidfunk.github.io)](https://squidfunk.github.io/mkdocs-material/) 姜庆彩师兄使用的就是这个方案，纯markdown
 
-1. [alshedivat/al-folio: A beautiful, simple, clean, and responsive Jekyll theme for academics (github.com)](https://github.com/alshedivat/al-folio) ![[attachments/Pasted image 20240206223921.png|500]]
+1. [alshedivat/al-folio: A beautiful, simple, clean, and responsive Jekyll theme for academics (github.com)](https://github.com/alshedivat/al-folio) ![[attachments/Pasted image 20240206223921.png]]
 符合需求！选择这一方案构建个人主页！
 
 #### 2.2.2 配合github.io使用
