@@ -2,7 +2,6 @@
     "basics": {
         "name": "Jun Gu",
         "label": "Student",
-        "image": "",
         "email": "gj99@mail.ustc.edu.cn",
         "phone": "(86) 158-5615-0099",
         "url": "https://1jungu.github.io/",
@@ -26,10 +25,8 @@
         {
             "name": "School Earth and Space Sciences, USTC",
             "position": "PhD candidate",
-            "url": "",
             "startDate": "2020-06-28",
             "endDate": "Now",
-            "summary": "",
             "highlights": [
                 "Atmospheric Model"
             ]
@@ -44,7 +41,7 @@
             "studyType": "BSc",
             "startDate": "2016-09-01",
             "endDate": "2020-07-01",
-            "score": "3.42/4.3",
+            "score": "3.42/4.3"
         },
         {
             "institution": "University of Science and Technology of China",
@@ -53,7 +50,7 @@
             "area": "Geophysics",
             "studyType": "PhD",
             "startDate": "2020-06-28",
-            "endDate": "expected June 2025",
+            "endDate": "expected June 2025"
         }
     ],
     "skills": [
