@@ -56,7 +56,6 @@
             "endDate": "expected June 2025",
         }
     ],
-    "publications": [],
     "skills": [
         {
             "name": "Programming languages",
@@ -93,5 +92,5 @@
             "fluency": "Fluent",
             "icon": ""
         }
-    ],
+    ]
 }
