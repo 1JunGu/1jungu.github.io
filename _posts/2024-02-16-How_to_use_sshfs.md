@@ -5,7 +5,7 @@ modify: 2024-02-16 01:47
 author: Jun Gu
 aliases: 
 type: 
-tags: 
+tags:
   - technology
 layout: post
 ---
@@ -45,7 +45,7 @@ Detailed guide could be seen [here](https://blog.xieqiaokang.com/posts/505416489
 ## 2 Solutions using WSL2
 If you use ubuntu distribution in WSL2, follow this steps 
 
-```shell
+```bash
 1. sudo apt-get install sshfs
 2. mkdir -p mountpoint 
 3. sudo sshfs -o allow_other user@host:/path /mountpoint -p port #port is your ssh port
