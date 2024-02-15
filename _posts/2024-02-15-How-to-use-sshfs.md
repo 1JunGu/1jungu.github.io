@@ -1,7 +1,6 @@
 ---
 title: How to use sshfs to mount remote file systems on Windows
-date: 2023-02-16 
-modify: 2023-02-16
+date: 2024-02-15
 author: Jun Gu
 tags:
   - technology
@@ -49,7 +48,7 @@ If you use ubuntu distribution in WSL2, follow this steps
 4. #you can view remote file systems in ubuntu and Windows Explorer
 ```
 
-![sshfs_wsl2](/assets/img/sshfs_ubuntu_wsl.png#pic_center)
+![sshfs_wsl2](/assets/img/sshfs_ubuntu_wsl.png#center)
 
 More info are here [How To Use SSHFS to Mount Remote File Systems Over SSH](https://www.digitalocean.com/community/tutorials/how-to-use-sshfs-to-mount-remote-file-systems-over-ssh)
 
