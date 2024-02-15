@@ -1,11 +1,12 @@
 ---
 title: How to use sshfs to mount remote file systems on Windows
-date: 2024-02-15 18:47
-modify: 2024-02-15 18:47
+date: 2024-02-16 01:47
+modify: 2024-02-19 01:47
 author: Jun Gu
 aliases: 
 type: 
 tags: 
+  - technology
 layout: post
 ---
 
@@ -29,7 +30,7 @@ If you want to use [GUI software](https://github.com/evsar3/sshfs-win-manager), 
 Be sure check sshfs binary path in setting UI 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/sshfs.exe.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/sshfs_exe.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
