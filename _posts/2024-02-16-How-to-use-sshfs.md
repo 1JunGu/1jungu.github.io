@@ -3,16 +3,14 @@ title: How to use sshfs to mount remote file systems on Windows
 date: 2024-02-16 01:47
 modify: 2024-02-16 01:47
 author: Jun Gu
-aliases: 
-type: 
 tags:
   - technology
 layout: post
+published: true
 ---
+## 1 Mount remote file system to Windows system
 
-## 1 Mount remote file system to Windows system 
-
-### 1.1 Download necessary software 
+### 1.1 Install necessary software 
 
 [WinFsp](https://winfsp.dev/rel/)
 It requires [winfsp/sshfs-win: SSHFS For Windows](https://github.com/winfsp/sshfs-win) installed. There are two kinds of installer (x86 vs x64) to choose.
@@ -28,11 +26,8 @@ It's worth noting that most most modern desktop and laptop processors are based 
 If you want to use [GUI software](https://github.com/evsar3/sshfs-win-manager), [WinFsp](https://winfsp.dev/rel/) is **NOT** necessary to install on your system, but also requires **SSHFS** installed.
 
 Be sure check sshfs binary path in setting UI 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/sshfs_exe.png" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+![sshfs_exe.png](/assets/img/sshfs_exe.png)
+
 
 Detailed guide could be seen [here](https://blog.xieqiaokang.com/posts/505416489.html)
 
@@ -51,19 +46,14 @@ If you use ubuntu distribution in WSL2, follow this steps
 3. sudo sshfs -o allow_other user@host:/path /mountpoint -p port #port is your ssh port
 4. #you can view remote file systems in ubuntu and Windows Explorer
 ```
+![sshfs_wsl2](/assets/img/sshfs_ubuntu_wsl.png)
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/sshfs_ubuntu_wsl.png" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-More info are here[How To Use SSHFS to Mount Remote File Systems Over SSH | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-sshfs-to-mount-remote-file-systems-over-ssh)
+More info are here [How To Use SSHFS to Mount Remote File Systems Over SSH](https://www.digitalocean.com/community/tutorials/how-to-use-sshfs-to-mount-remote-file-systems-over-ssh)
 
 ## 3 Others 
 1. SSHFS mount remote file systems using ssh. So don’t install anything on remote servers.
 2. Be careful the permissions
 
 ---
-[^1]: [Support for Keyboard-Interactive Authentication? · Issue #79 · winfsp/sshfs-win (github.com)](https://github.com/winfsp/sshfs-win/issues/79)
-[^2]: [Google Authenticator · Issue #261 · winfsp/sshfs-win (github.com)](https://github.com/winfsp/sshfs-win/issues/261)
+[^1]: [Support for Keyboard-Interactive Authentication? · Issue #79](https://github.com/winfsp/sshfs-win/issues/79)
+[^2]: [Google Authenticator · Issue #261](https://github.com/winfsp/sshfs-win/issues/261)
