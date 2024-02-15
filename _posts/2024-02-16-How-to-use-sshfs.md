@@ -1,7 +1,7 @@
 ---
 title: How to use sshfs to mount remote file systems on Windows
-date: 2024-02-16 
-modify: 2024-02-16
+date: 2023-02-16 
+modify: 2023-02-16
 author: Jun Gu
 tags:
   - technology
