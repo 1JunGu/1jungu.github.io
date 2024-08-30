@@ -290,7 +290,7 @@ scholar:
   locale: en
 
   source: /_bibliography/
-  bibliography: 2024_02_07.bib
+  bibliography: 2024_08_30.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
