@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Jun Gu"
   pronouns         : "he/him"  
-  bio              : "Focusing on global storm-resolving model"
-  location         : "China"
-  employer         : "USTC"
+  bio              : "Enhancing extreme weather prediction using state-of-the-art numerical models"
+  location         : "Shanghai, China"
+  employer         : "Fudan University"
   uri              : # URL
-  email            : "kyuinkoo@gmail.com" 
+  email            : "jungu@fudan.edu.cn" 
 
   # Academic websites
   academia         : # URL
@@ -219,13 +219,13 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
