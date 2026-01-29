@@ -21,10 +21,10 @@ main:
 #    url: /portfolio/
         
   - title: "Blogs"
-    url: https://1jungu.github.io/blog/
+    url: /blog/
     
   - title: "CV"
-    url: /cv/
+    url: /files/CV-JunGu-latest.pdf
     
   # - title: "CV"
   #   url: /cv-json/
