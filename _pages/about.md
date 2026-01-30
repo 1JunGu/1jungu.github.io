@@ -14,7 +14,7 @@ I received my Ph.D. in geophysics from USTC in June 2025, advised by Prof. [Chun
 I received my B.S. in atmospheric science from USTC in June 2020.
 
 ## News
-3. [Dec 2025] I joined the [Climate Impact Team](http://stuhome.ustc.edu.cn/) as a postdoctoral researcher in Fudan University.
+3. [Dec 2025] I joined the [Climate Impact Team](http://yuanjiacan.com/) as a postdoctoral researcher in Fudan University.
 
 2. [Jun 2025] I received the President Award from Chinese Academy Sciences.
 
