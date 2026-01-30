@@ -13,6 +13,7 @@ I received my Ph.D. in geophysics from USTC in June 2025, advised by Prof. [Chun
 
 I received my B.S. in atmospheric science from USTC in June 2020.
 
+
 <style>
 .news-container {
   max-width: 800px;
@@ -74,6 +75,19 @@ I received my B.S. in atmospheric science from USTC in June 2020.
 }
 </style>
 
+/* 地球仪容器样式 */
+.globe-container {
+  max-width: 400px;        /* 最大宽度 */
+  width: 100%;             /* 响应式宽度 */
+  margin: 20px auto;       /* 居中显示 */
+  display: flex;
+  justify-content: center;
+}
+.globe-container iframe,
+.globe-container canvas {
+  max-width: 100%;
+}
+
 # News
 
 <div class="news-container">
@@ -128,6 +142,3 @@ I received my B.S. in atmospheric science from USTC in June 2020.
     toggleBtn.textContent = expanded ? 'Show Less' : `Show More (${items.length - maxVisible} hidden)`;
   };
 })();
-</script>
-
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=5NB7l-1kcgLGMqCgrOrR-ek2FJHURhFX0lYH5om7Zkc&cl=ffffff&w=a"></script>
