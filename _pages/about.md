@@ -73,20 +73,20 @@ I received my B.S. in atmospheric science from USTC in June 2020.
   0%, 100% { box-shadow: 0 0 0 0 rgba(245, 87, 108, 0.4); }
   50% { box-shadow: 0 0 0 8px rgba(245, 87, 108, 0); }
 }
-</style>
-
 /* 地球仪容器样式 */
 .globe-container {
   max-width: 400px;        /* 最大宽度 */
   width: 100%;             /* 响应式宽度 */
-  margin: 20px auto;       /* 居中显示 */
+  margin: 20px 0;       /* 居中显示 */
   display: flex;
-  justify-content: center;
+  /*justify-content: center;*/
 }
 .globe-container iframe,
 .globe-container canvas {
   max-width: 100%;
 }
+
+</style>
 
 # News
 
@@ -142,3 +142,9 @@ I received my B.S. in atmospheric science from USTC in June 2020.
     toggleBtn.textContent = expanded ? 'Show Less' : `Show More (${items.length - maxVisible} hidden)`;
   };
 })();
+</script>
+
+
+<div class="globe-container">
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=fPEgm6CULD9ACIpYnaceexR_o3ohQDInpTC00veuxfw"></script>
+</div>
