@@ -146,5 +146,5 @@ I received my B.S. in atmospheric science from USTC in June 2020.
 
 
 <div class="globe-container">
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=5NB7l-1kcgLGMqCgrOrR-ek2FJHURhFX0lYH5om7Zkc&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=5NB7l-1kcgLGMqCgrOrR-ek2FJHURhFX0lYH5om7Zkc&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
 </div>
