@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Now, I'm a postdoctoral researcher in Fudan University, working with Prof. [Jiacan Yuan](http://yuanjiacan.com/)
+Now, I'm a postdoctoral researcher in Fudan University, working with Prof. [Jiacan Yuan](http://yuanjiacan.com/) and Dr. [Chao Li](https://mpimet.mpg.de/en/staff/chao-li)
 
 I received my Ph.D. in geophysics from USTC in June 2025, advised by Prof. [Chun Zhao](https://aemol.ustc.edu.cn/member/list/0/)
 
